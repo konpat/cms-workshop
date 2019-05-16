@@ -1,3 +1,7 @@
+"""
+Functions for geometry analysis.
+"""
+
 #This is my geometry analysis code
 import numpy
 import os

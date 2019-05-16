@@ -2,4 +2,6 @@
 
 Materials for the MolSSI workshop - SETCA2019, Knoxville
 
-## Section subtitle
+## Geometry analysis project
+
+This is a library that provides the functions for calculating a distance between two atoms and for checking if two atoms are covalently bonded.
